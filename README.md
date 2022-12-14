@@ -1,3 +1,3 @@
 # calculator-with-proteus-and-arduino
 
-![alt text](http://url/to/img.png)
+![](calculator with proteus and arduino.png)
