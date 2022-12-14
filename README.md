@@ -1,3 +1,3 @@
 # calculator-with-proteus-and-arduino
 
-![](calculator with proteus and arduino.png)
+![](calculator%20with%20proteus%20and%20arduino.png)
